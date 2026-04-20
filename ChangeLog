@@ -1,3 +1,9 @@
+k2hr3-get-resource (1.0.13) unstable; urgency=low
+
+  * Fixed APKBUILD.templ.in for alpine v3.23 - #40
+
+ -- Takeshi Nakatani <ggtakec@gmail.com>  Mon, 20 Apr 2026 11:38:02 +0900
+
 k2hr3-get-resource (1.0.12) unstable; urgency=low
 
   * Changed support OS and Fixed some code - #38
